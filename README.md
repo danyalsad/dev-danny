@@ -115,7 +115,7 @@ Comprehensive **medical exam preparation app** (PLAB, USMLE, MRCP, AMC, FCPS) wi
 
 ## 📫 Connect With Me  
 
-💼 **Upwork:** https://www.upwork.com/freelancers/~01d2dc35eb92e77912
+💼 **Upwork:** https://www.upwork.com/freelancers/~01d37db64bb84e139f
 
 
 > Open to collaborations in **web development**, **SEO**, and **digital growth strategy.**
