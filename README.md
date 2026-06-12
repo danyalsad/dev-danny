@@ -1,128 +1,87 @@
-# dev-danny
-# 👋 Hi, I'm Danyal  
-### WordPress Developer | Web Designer | SEO Specialist | Digital Strategy Consultant  
+# 👋 Hi, I'm Danyal
 
-I’m a **WordPress and Web Solutions Developer** passionate about building elegant, fast, and functional websites that help businesses and communities grow. My work spans **healthcare, community, eCommerce, and social awareness projects**, blending creative design with data-driven optimization.
+### Mobile & AI App Developer — Flutter · iOS · Full-Stack · Smart Contracts
 
----
-
-## 💼 What I Do  
-
-✅ **Custom WordPress Development**  
-- Elementor, BuddyBoss, BuddyPress, Divi, and custom themes  
-- Membership systems, community portals, and directory-style sites  
-- API integrations and plugin customization for automation  
-
-✅ **SEO & Growth Strategy**  
-- Keyword optimization, schema markup, and on-page SEO  
-- Content strategy for organic growth and engagement  
-- Analytics setup and performance tracking  
-
-✅ **Design & User Experience**  
-- Responsive layouts optimized for all devices  
-- UI/UX design focused on accessibility and clarity  
-- Clean typography, color balance, and user flow  
-
-✅ **Maintenance & Support**  
-- WordPress core/plugin updates, bug fixes, and security hardening  
-- Website speed optimization with caching, CDN, and lazy loading  
-- Ongoing SEO and content updates for consistent visibility  
+I build and **ship** production apps. Multiple products live on the App Store and
+Google Play, each with real users, payments, and AI features — designed, built,
+launched, and operated end-to-end by me.
 
 ---
 
-## 🌍 Featured Projects  
+## 🚀 Products I've Built & Shipped
 
-### 🩸 [DiabetesPak.com](https://www.diabetespak.com/)  
-**Educational and awareness platform** for diabetes patients and healthcare providers in Pakistan.  
-> Features: medical resource hub, interactive forms, responsive design, and optimized health-related content.  
-> Built with SEO-focused structure for ranking on regional health keywords.  
+### 🩺 [MedLumen](https://medlumen.io) — AI Medical Exam Prep
+Web + iOS + Android platform preparing doctors for licensing exams
+(USMLE, PLAB, AMC, MCCQE, and more).
+> AI tutor & quiz engine (LLM-powered) · Flutter apps · PHP/MySQL backend ·
+> subscription billing with web checkout + webhooks · live on both stores.
 
----
+### 🎰 [AgentBet](https://agentbet.io) — Crypto Gaming for Humans *and* AI Agents
+Real-money crypto gaming platform with a public API designed so **AI agents can
+play autonomously** alongside human players.
+> Crypto payments · provably-fair game logic · PHP/MySQL · agent-facing REST API.
 
-### 🪖 [GayVeterans.us](https://www.gayveterans.us/)  
-**BuddyBoss-powered LGBTQ veterans community** featuring mental health awareness, PTSD support, and veteran advocacy.  
-> Features: chatroom integration, membership system, dynamic content, and military-inspired design (olive/khaki).  
+### 📸 Posify — AI Pose-Guidance Camera (iOS)
+Native iOS camera app that coaches your pose in real time using on-device vision.
+> Swift · Apple Vision framework · StoreKit 2 subscriptions · iOS 17+.
 
----
+### 🪖 [Barracks Life](https://barrackslife.com) — Community & Dating App
+Cross-platform community + messaging app, live on both stores.
+> Flutter · PHP/MySQL backend · realtime chat · profiles, matching, moderation.
 
-### 👥 [Over40Club.org](https://www.over40club.org/)  
-A **community platform celebrating life after 40**, allowing members to submit personal bios, photos, and favorite links.  
-> Features: submission form (Name, Country, Year Diagnosed, Bio, Pics, Links), directory display page, and cPanel-based data handling.  
-
----
-
-### 🩺 [RS Traders](https://www.rstraders.org/)  
-**Car and Vehicle import and trading company website** designed to showcase products, certifications, and partnerships.  
-> Features: modern product layout, contact automation, and fast performance optimization.  
-
----
-
-### 🤠 [GayCowboys.net](https://www.gaycowboys.net/)  
-A **social and lifestyle platform** built for the LGBTQ+ cowboy community.  
-> Features: bold design, user stories, blog integration, and community awareness tools.  
+### 🤠 The Barn — Niche Social Network App
+Flutter mobile app for an established online community, built on the
+BuddyBoss platform.
+> Flutter · BuddyBoss/WordPress REST integration · push notifications.
 
 ---
 
-### 🌈 [TN Pride Chamber](https://www.tnpridechamber.com/)  
-**Official Tennessee LGBTQ+ Chamber of Commerce website** focused on local business support, networking, and inclusion.  
-> Features: membership directory, event listings, community resources, and optimized business pages.  
+## ⛓️ Crypto & Smart Contracts
+
+- **[merkle-airdrop-demo](https://github.com/danyalsad/merkle-airdrop-demo)** —
+  ERC-20 Merkle airdrop: claim contract with ERC-20/NFT eligibility gates,
+  OpenZeppelin StandardMerkleTree tooling (TypeScript/ethers v6), Foundry test
+  suite with fuzzing.
+- **Smart-contract security** — I compete in audit contests on HackenProof,
+  reviewing production Solidity for vulnerabilities.
 
 ---
 
-### 💼 [TN Pride Coop](https://www.tnpridecoop.com/)  
-**Collaborative platform** supporting small LGBTQ-friendly businesses in Tennessee.  
-> Features: business submission forms, local partner listings, and SEO-optimized structure for organic local traffic.  
+## 🤖 AI Integration
+
+I wire LLMs into real products — not demos:
+- AI tutor/quiz engine and AI-generated study content (MedLumen)
+- AI marketing automation (viral content, push, and email generation pipelines)
+- Agent-facing APIs (AgentBet)
+- Hands-on with OpenAI, Claude, Gemini, and DeepSeek APIs
 
 ---
 
-### 🧠 Medical Quiz App – *Android & Web Portal*  
-Comprehensive **medical exam preparation app** (PLAB, USMLE, MRCP, AMC, FCPS) with Firebase integration.  
-> Features: user login, topic-based MCQs, progress analytics, and offline caching for speed.  
+## 🌍 Earlier Web Work
+
+WordPress/BuddyBoss builds I designed, developed, and optimized:
+[DiabetesPak.com](https://www.diabetespak.com/) (health education platform) ·
+[GayVeterans.us](https://www.gayveterans.us/) (veterans community) ·
+[Over40Club.org](https://www.over40club.org/) (membership community)
 
 ---
 
-## 🧰 Tools & Technologies  
+## 🧰 Stack
 
-| Category | Tools / Frameworks |
-|-----------|--------------------|
-| **CMS** | WordPress, BuddyBoss, Elementor, Divi, BuddyPress |
-| **Languages** | PHP, JavaScript, HTML5, CSS3, SQL |
-| **Databases** | MySQL, Firebase |
-| **Design & UX** | Figma, Canva, Adobe XD |
-| **SEO & Analytics** | Yoast SEO, RankMath, Google Analytics, SEMrush |
-| **Hosting & Deployment** | cPanel, Plesk, Cloudflare, GitHub Pages |
-| **Email & CRM** | Mailchimp, HubSpot |
-| **Version Control** | Git, GitHub |
+| | |
+|---|---|
+| **Mobile** | Flutter/Dart, Swift (StoreKit 2, Vision), Android |
+| **Backend** | PHP, MySQL, Node.js/TypeScript, Firebase, REST APIs |
+| **AI** | OpenAI, Anthropic Claude, Gemini, DeepSeek APIs |
+| **Crypto** | Solidity, Foundry, ethers.js, EVM chains |
+| **Payments** | StoreKit 2, RevenueCat, web checkout + webhooks, crypto rails |
+| **Web** | WordPress/BuddyBoss, SEO, analytics |
 
 ---
 
-## 📈 My Process  
-
-1. **Discover:** Understand client goals, target audience, and brand tone.  
-2. **Design:** Create wireframes and style guides ensuring UX clarity.  
-3. **Develop:** Implement responsive layouts, SEO structures, and automation.  
-4. **Deploy & Maintain:** Test, launch, optimize speed, and monitor growth.  
-
----
-
-## 🚀 Recent Upwork Focus  
-
-- Long-term **WordPress management & SEO optimization** contracts  
-- **Digital marketing assistant** roles for agencies (content + analytics)  
-- **Full-scale web rebuilds** involving plugins, automation, and HubSpot integrations  
-
----
-
-## 📫 Connect With Me  
+## 📫 Hire Me
 
 💼 **Upwork:** https://www.upwork.com/freelancers/~01d37db64bb84e139f
+📧 Open to mobile app builds, AI integrations, and smart-contract work.
 
-
-> Open to collaborations in **web development**, **SEO**, and **digital growth strategy.**
-
-
-
----
-
-> _“Professional websites aren’t just built — they’re engineered for impact.”_
-
+> _I take ideas to shipped, store-approved products — fast._
