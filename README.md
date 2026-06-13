@@ -45,6 +45,16 @@ BuddyBoss platform.
 - **Smart-contract security** — I compete in audit contests on HackenProof,
   reviewing production Solidity for vulnerabilities.
 
+## 🧪 Open-Source Kits (patterns I deliver client work with)
+
+| Repo | What it proves |
+|---|---|
+| [web2app-capacitor-template](https://github.com/danyalsad/web2app-capacitor-template) | Website → native iOS/Android apps, incl. the Apple 4.2 review checklist |
+| [ai-support-chat](https://github.com/danyalsad/ai-support-chat) | Streaming AI chat backend (OpenAI/Claude/DeepSeek) + embeddable widget, 13 tests |
+| [flutter-paywall-kit](https://github.com/danyalsad/flutter-paywall-kit) | Subscription paywall architecture w/ swappable billing (RevenueCat/StoreKit), widget tests |
+| [woocommerce-gateway-skeleton](https://github.com/danyalsad/woocommerce-gateway-skeleton) | Woo payment gateway done right: HMAC webhooks, idempotent order transitions |
+| [stripe-php-billing](https://github.com/danyalsad/stripe-php-billing) | Stripe webhook verification from the spec, replay protection, dunning grace |
+
 ---
 
 ## 🤖 AI Integration
